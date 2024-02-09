@@ -22,13 +22,13 @@ nav {
     display:flex; */
     /* separa elementos de extremo a extremo */
     justify-content:space-between;
-    align-items: center;
+    /* align-items: center; */
     background-color: rgba(123, 74, 226, 0.05);
     /* margin-top: 30px;
     margin-left: 80px;
     margin-right: 80px;
     margin-bottom: 30px; */
-    margin: 30px;
+    margin: 30px 80px;
     padding: 15px;
     border-radius: 16px;
 }
@@ -122,7 +122,7 @@ main {
 .container-about-me {
     display: flex;
     justify-content: space-between;
-    padding: 30px 80 px;
+    padding: 30px 80px;
 }
 
 .container-about-me > div > img {
